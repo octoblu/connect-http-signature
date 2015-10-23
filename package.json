@@ -1,6 +1,6 @@
 {
 	"author": "Jeremy Martin <jmar777@gmail.com> (http://twitter.com/jmar777)",
-	"name": "connect-http-signature",
+	"name": "@octoblu/connect-http-signature",
 	"description": "Connect middleware wrapper for Joyent's HTTP Signature reference implementation",
 	"version": "0.1.3",
 	"repository": {
